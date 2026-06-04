@@ -158,7 +158,7 @@ export default function DveProcenta() {
           <div className="absolute inset-0 flex items-center justify-center pointer-events-none opacity-5">
             <span className="text-[12rem] font-black text-white leading-none">RBK</span>
           </div>
-          <div className="relative z-10 max-w-2xl">
+          <div className="relative z-10 text-center max-w-2xl mx-auto">
             <p className="text-brand-red text-xs font-black uppercase tracking-[0.4em] mb-4">Prečo to robíme</p>
             <h3 className="text-4xl md:text-5xl font-black text-white uppercase leading-tight mb-6">
               VAŠE 2% VYUŽIJEME<br />NA NÁŠ RAST
