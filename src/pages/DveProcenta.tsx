@@ -176,7 +176,7 @@ export default function DveProcenta() {
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="text-center border border-brand-red/40 bg-brand-red/10 rounded-sm p-16"
+          className="text-center border border-brand-red/40 bg-brand-red/10 rounded-sm p-16 flex flex-col items-center"
         >
           <Heart size={40} className="text-brand-red mx-auto mb-6" />
           <h2 className="text-5xl md:text-7xl font-black text-white uppercase mb-4">ĎAKUJEME</h2>
