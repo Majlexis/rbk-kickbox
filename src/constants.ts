@@ -44,8 +44,18 @@ export const GALLERY_IMAGES = [
   { id: 9, url: '/images/galeria9.jpg',  },
   { id: 10, url: '/images/galeria10.jpg',  },
   { id: 11, url: '/images/galeria11.jpg',  },
-  
-  
+  { id: 12, url: '/images/galeria12.jpg',  },
+  { id: 13, url: '/images/galeria13.jpg',  },
+  { id: 14, url: '/images/galeria14.jpg',  },
+  { id: 15, url: '/images/galeria15.jpg',  },
+  { id: 16, url: '/images/galeria16.jpg',  },
+  { id: 17, url: '/images/galeria17.jpg',  },
+  { id: 18, url: '/images/galeria18.jpg',  },
+  { id: 19, url: '/images/galeria19.jpg',  },
+  { id: 20, url: '/images/galeria20.jpg',  },
+  { id: 21, url: '/images/galeria21.jpg',  },
+
+
   /*
   Ak chceš pridať ďalšiu, skopíruj tento riadok nižšie:
   { id: 7, url: '/images/tvoj_subor.jpg', alt: 'Popis fotky' },
